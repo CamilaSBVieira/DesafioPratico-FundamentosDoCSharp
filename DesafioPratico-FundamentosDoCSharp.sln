@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio1", "Exercicio1", "{0EB43146-91BF-4379-A459-84A9CE227299}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioPratico-FundamentosDoCSharp.Exercicio1", "Exercicio1\DesafioPratico-FundamentosDoCSharp.Exercicio1\DesafioPratico-FundamentosDoCSharp.Exercicio1.csproj", "{1DE48E4E-EB03-42BD-94B5-ED6523C065EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio2", "Exercicio2", "{CD5F3140-19AF-470C-ACB9-A71DF7E20869}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioPratico-FundamentosDoCSharp.Exercicio2", "Exercicio2\DesafioPratico-FundamentosDoCSharp.Exercicio2\DesafioPratico-FundamentosDoCSharp.Exercicio2.csproj", "{98EAF4A2-4225-4356-817B-35A12297FE1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio3", "Exercicio3", "{96675515-2E31-4AE7-A214-ADA555A49DEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioPratico-FundamentosDoCSharp.Exercicio3", "Exercicio3\DesafioPratico-FundamentosDoCSharp.Exercicio3\DesafioPratico-FundamentosDoCSharp.Exercicio3.csproj", "{35FF1946-A069-43F5-8106-32D0BB8AAF62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio4", "Exercicio4", "{F995D670-D807-4F2D-BD91-8F365EBC6E9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioPratico-FundamentosDoCSharp.Exercicio4", "Exercicio4\DesafioPratico-FundamentosDoCSharp.Exercicio4\DesafioPratico-FundamentosDoCSharp.Exercicio4.csproj", "{603DD660-3788-4FE8-B207-0C3A5F21A71A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio5", "Exercicio5", "{56AAE6A3-D56B-428D-B4F2-80ABC4E0D347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioPratico-FundamentosDoCSharp.Exercicio5", "Exercicio5\DesafioPratico-FundamentosDoCSharp.Exercicio5\DesafioPratico-FundamentosDoCSharp.Exercicio5.csproj", "{20FC9D8E-AE2C-4E37-8253-ED34221C8FF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio6", "Exercicio6", "{8250C9F5-55D8-419B-BAB2-F68975A3B5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioPratico-FundamentosDoCSharp.Exercicio6", "Exercicio6\DesafioPratico-FundamentosDoCSharp.Exercicio6\DesafioPratico-FundamentosDoCSharp.Exercicio6.csproj", "{6192A86D-3B4F-4F04-9941-F6574830DF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE48E4E-EB03-42BD-94B5-ED6523C065EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE48E4E-EB03-42BD-94B5-ED6523C065EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE48E4E-EB03-42BD-94B5-ED6523C065EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE48E4E-EB03-42BD-94B5-ED6523C065EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EAF4A2-4225-4356-817B-35A12297FE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EAF4A2-4225-4356-817B-35A12297FE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EAF4A2-4225-4356-817B-35A12297FE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EAF4A2-4225-4356-817B-35A12297FE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FF1946-A069-43F5-8106-32D0BB8AAF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FF1946-A069-43F5-8106-32D0BB8AAF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FF1946-A069-43F5-8106-32D0BB8AAF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FF1946-A069-43F5-8106-32D0BB8AAF62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603DD660-3788-4FE8-B207-0C3A5F21A71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603DD660-3788-4FE8-B207-0C3A5F21A71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603DD660-3788-4FE8-B207-0C3A5F21A71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603DD660-3788-4FE8-B207-0C3A5F21A71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FC9D8E-AE2C-4E37-8253-ED34221C8FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FC9D8E-AE2C-4E37-8253-ED34221C8FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FC9D8E-AE2C-4E37-8253-ED34221C8FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FC9D8E-AE2C-4E37-8253-ED34221C8FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6192A86D-3B4F-4F04-9941-F6574830DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6192A86D-3B4F-4F04-9941-F6574830DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6192A86D-3B4F-4F04-9941-F6574830DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6192A86D-3B4F-4F04-9941-F6574830DF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1DE48E4E-EB03-42BD-94B5-ED6523C065EC} = {0EB43146-91BF-4379-A459-84A9CE227299}
+		{98EAF4A2-4225-4356-817B-35A12297FE1B} = {CD5F3140-19AF-470C-ACB9-A71DF7E20869}
+		{35FF1946-A069-43F5-8106-32D0BB8AAF62} = {96675515-2E31-4AE7-A214-ADA555A49DEC}
+		{603DD660-3788-4FE8-B207-0C3A5F21A71A} = {F995D670-D807-4F2D-BD91-8F365EBC6E9C}
+		{20FC9D8E-AE2C-4E37-8253-ED34221C8FF3} = {56AAE6A3-D56B-428D-B4F2-80ABC4E0D347}
+		{6192A86D-3B4F-4F04-9941-F6574830DF27} = {8250C9F5-55D8-419B-BAB2-F68975A3B5DE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B09DB8A-E378-4913-8A04-AA7ED6D8D5AF}
+	EndGlobalSection
+EndGlobal
